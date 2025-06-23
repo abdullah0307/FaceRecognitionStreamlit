@@ -1,4 +1,7 @@
-streamlit~=1.10.0
-deepface~=0.0.93
-pillow~=10.4.0
-tensorflow
+cmake
+git+https://github.com/davisking/dlib.git
+face_recognition
+streamlit
+Pillow
+numpy
+opencv-python
