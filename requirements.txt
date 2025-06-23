@@ -1,5 +1,5 @@
 # dlib Linux-compatible precompiled wheel
-https://github.com/RPi-Distro/dlib-build/releases/download/v19.24.2-linux/dlib-19.24.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+https://github.com/eddiehe99/dlib-whl/blob/main/dlib-20.0.0-cp310-cp310-win_amd64.whl
 
 # All other packages
 face_recognition
