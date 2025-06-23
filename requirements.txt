@@ -1,10 +1,4 @@
-# dlib Linux-compatible precompiled wheel
-https://github.com/eddiehe99/dlib-whl/blob/main/dlib-20.0.0-cp310-cp310-win_amd64.whl
-
-# All other packages
-face_recognition
-cmake
-streamlit
-numpy
-opencv-python
-Pillow
+streamlit~=1.10.0
+deepface~=0.0.93
+pillow~=10.4.0
+tensorflow
