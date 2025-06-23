@@ -1,4 +1,10 @@
-streamlit~=1.42.0
-face-recognition~=1.3.0
-numpy~=2.0.2
-pillow~=10.4.0
+# dlib Linux-compatible precompiled wheel
+https://github.com/RPi-Distro/dlib-build/releases/download/v19.24.2-linux/dlib-19.24.2-cp310-cp310-manylinux_2_17_x86_64.manylinux2014_x86_64.whl
+
+# All other packages
+face_recognition
+cmake
+streamlit
+numpy
+opencv-python
+Pillow
