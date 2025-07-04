@@ -1,0 +1,8 @@
+name: streamlit-app-env
+channels:
+  - conda-forge
+dependencies:
+  - streamlit~=1.42.0
+  - face-recognition~=1.3.0
+  - pillow~=10.4.0
+  - pydrive~=1.3.1
